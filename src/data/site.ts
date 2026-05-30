@@ -4,7 +4,7 @@ export const site = {
   tagline: "Konveksi custom · Made in Indonesia",
   whatsapp: "+6282249735760",
   whatsappLink: "https://wa.me/6282249735760",
-  email: "[EMAIL_ADDRESS]",
+  email: "info@aliefya.com",
   studio: "Jl. As - Syafi'iyah No. 08, RT.001/RW.007, Jatiasih, Bekasi",
   hours: "Senin – Sabtu · 09.00 – 21.00 WIB",
   established: 2003,
