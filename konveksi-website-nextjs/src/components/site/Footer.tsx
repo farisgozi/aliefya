@@ -9,9 +9,9 @@ export default function Footer() {
       {/* big wordmark */}
       <div className="overflow-hidden border-b border-cream/10 pb-12">
         <Marquee
-          items={["Aliefya", "Konveksi", "Custom", "Apparel", "Bandung"]}
+          items={["Aliefya", "Konveksi", "Custom", "Apparel", "Bekasi"]}
           className="font-display text-[18vw] leading-none tracking-tightest text-cream/10"
-          separator="✺"
+          separator="-"
         />
       </div>
 

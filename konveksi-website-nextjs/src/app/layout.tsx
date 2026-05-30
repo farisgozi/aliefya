@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     "Konveksi custom skala kecil hingga produksi besar. Kaos, hoodie, jaket, kemeja, polo, jersey, dan seragam — dijahit dengan presisi, dikerjakan dengan hati.",
   keywords: [
     "konveksi",
-    "konveksi bandung",
+    "konveksi bekasi",
     "kaos custom",
     "hoodie custom",
     "seragam kantor",

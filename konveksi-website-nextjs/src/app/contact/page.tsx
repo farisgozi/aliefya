@@ -71,7 +71,7 @@ export default function ContactPage() {
                   Lokasi
                 </div>
                 <div className="mt-2 font-display text-3xl leading-tight">
-                  Bandung, Indonesia
+                  Bekasi, Indonesia
                 </div>
                 <div className="mt-1 text-cream/70 text-sm">{site.studio}</div>
 

@@ -4,10 +4,10 @@ export const site = {
   tagline: "Konveksi custom · Made in Indonesia",
   whatsapp: "+6281234567890",
   whatsappLink: "https://wa.me/6281234567890",
-  email: "halo@aliefya.id",
-  studio: "Jl. Pasirkoja No. 12, Bandung 40231",
-  hours: "Senin – Sabtu · 09.00 – 17.00 WIB",
-  established: 2017,
+  email: "[EMAIL_ADDRESS]",
+  studio: "Jl. As - Syafi'iyah No. 08, RT.001/RW.007, Jatiasih, Bekasi",
+  hours: "Senin – Sabtu · 09.00 – 21.00 WIB",
+  established: 2003,
 };
 
 export const navItems = [
@@ -76,9 +76,9 @@ export const capabilities: Capability[] = [
 ];
 
 export const stats = [
-  { kpi: "8", suffix: "th", label: "Tahun pengalaman" },
-  { kpi: "1.4", suffix: "jt+", label: "Helai diproduksi" },
-  { kpi: "640", suffix: "+", label: "Brand & komunitas" },
+  { kpi: "23", suffix: "th", label: "Tahun pengalaman" },
+  { kpi: "100", suffix: "rb+", label: "Pakaian jadi" },
+  { kpi: "200", suffix: "+", label: "Brand & komunitas" },
   { kpi: "98", suffix: "%", label: "Tepat waktu kirim" },
 ];
 

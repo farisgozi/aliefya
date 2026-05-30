@@ -27,7 +27,7 @@ export default function Hero() {
             <Reveal>
               <span className="tag-pill">
                 <span className="h-1.5 w-1.5 rounded-full bg-clay animate-blink" />
-                Studio konveksi · Sejak 2017
+                Studio konveksi · Sejak 2003
               </span>
             </Reveal>
 

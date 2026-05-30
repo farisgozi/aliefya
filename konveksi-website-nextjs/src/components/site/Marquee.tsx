@@ -11,7 +11,7 @@ export default function Marquee({
   items,
   reverse = false,
   className,
-  separator = "✺",
+  separator = "-",
 }: Props) {
   const row = (
     <div className="flex shrink-0 items-center gap-8 pr-8">
